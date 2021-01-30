@@ -13,5 +13,5 @@ print(lst)
 
 for el in range(0, len(lst)-1, 2):
         lst[el], lst[el + 1] = lst[el + 1], lst[el]
-        el += 2
+
 print(lst)
