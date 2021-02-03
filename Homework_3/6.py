@@ -13,3 +13,6 @@ print(int_func(word))
 
 text = input('Введите текст: ')
 print(int_func(text))
+
+
+
