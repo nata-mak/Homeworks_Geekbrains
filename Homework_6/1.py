@@ -41,11 +41,3 @@ class TrafficLight:
 
 traffic = TrafficLight('желтый')
 traffic.running()
-
-
-
-
-
-
-
-

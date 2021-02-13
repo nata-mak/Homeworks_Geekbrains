@@ -68,4 +68,3 @@ bmw = SportCar('150', 'red', 'bmw')
 bmw.go()
 bmw.show_speed()
 print(bmw.is_police)
-
